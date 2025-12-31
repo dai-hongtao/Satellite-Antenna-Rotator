@@ -50,8 +50,8 @@ GitHub: https://github.com/dai-hongtao
 
 ## Demo:
 
-![image](https://github.com/dai-hongtao/Sat-Antenna-Rotator/assets/43942741/d9639b92-4860-4a61-b26a-5ff2877d7408)
-![image](https://github.com/dai-hongtao/Sat-Antenna-Rotator/assets/43942741/41296b9e-caf3-4814-81f1-4360dfb08afa)
+![image](https://github.com/thedonalddon/Sat-Antenna-Rotator/assets/43942741/d9639b92-4860-4a61-b26a-5ff2877d7408)
+![image](https://github.com/thedonalddon/Sat-Antenna-Rotator/assets/43942741/41296b9e-caf3-4814-81f1-4360dfb08afa)
 
 ---
 
