@@ -32,11 +32,6 @@
 - `SENSITIVITY`：自动模式启动旋转的最小角度差（建议 2~5°）
 - `LEAD`：每次旋转的提前量（用于更完整覆盖）
 
-### 开源协议与第三方说明
-- 本项目 ESP32 固件部分依赖 GxEPD2：
-  https://github.com/ZinggJM/GxEPD2  
-  GxEPD2 采用 GNU General Public License v3.0（GPL-3.0）许可。
-  如分发包含该库的固件二进制文件（如 `.bin`），需遵守 GPL-3.0 的相关条款，包括提供对应源代码及许可证声明。
 
 ### 免责声明
 本项目仅用于个人技术研究、学习与实验用途。作者不对因使用本项目所产生的任何直接或间接后果承担责任。  
@@ -89,12 +84,6 @@ Different PTZ models have significantly different rotation speeds, so manual cal
   (recommended 2–5°)  
 - `LEAD`: lead angle applied during each movement to improve tracking coverage  
 
-### Open Source License and Third-Party Notice
-- The ESP32 firmware in this project depends on **GxEPD2**:  
-  https://github.com/ZinggJM/GxEPD2  
-
-  GxEPD2 is licensed under the GNU General Public License v3.0 (GPL-3.0).  
-  If you distribute compiled firmware binaries (e.g. `.bin`) that incorporate this library, you must comply with GPL-3.0, including providing the corresponding source code and license notices.
 
 ### Disclaimer
 This project is intended for personal technical research, learning, and experimental use only.  
